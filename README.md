@@ -1,1 +1,1 @@
-[![Website Preview Screenshot](imgs/dicionario.png)](https://your-website-url.com)
+[![Website Preview Screenshot](imgs/dicionario.png)]((https://williamsvargas-code.github.io/test/))
