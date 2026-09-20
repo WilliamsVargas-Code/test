@@ -1,1 +1,1 @@
-[Link over here](https://williamsvargas-code.github.io/test/)
+[![Website Preview Screenshot](path-to-your-image/screenshot.png)](https://your-website-url.com)
