@@ -1,1 +1,1 @@
-[![Website Preview Screenshot](path-to-your-image/screenshot.png)](https://your-website-url.com)
+[![Website Preview Screenshot](imgs/dicionario.png)](https://your-website-url.com)
