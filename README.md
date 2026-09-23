@@ -45,7 +45,7 @@ Este trabalho delimita-se à modelagem conceitual do banco de dados, não contem
 - Telefone: (11) 98495-5601 
 - E-mail: basefortelesteacademia@gmail.com
 - Rede social: Instagram @basefortelesteacademia
-- Levantamento de requisitos feito pelo integrante Nickolas: [Levantamento de Requisitos - Academia de Artes Marciais-1.pdf](https://github.com/user-attachments/files/32579836/Levantamento.de.Requisitos.-.Academia.de.Artes.Marciais-1.pdf)
+- Levantamento de requisitos feito pelo integrante Nickolas: [Levantamento de Requisitos - Academia de Artes Marciais-1.pdf](Levantamento.de.Requisitos-AcademiadeArtesMarciais-1.pdf)
 
 
   * *Entrevista de Campo:* Realizada presencialmente em 01/09/2026 pelo aluno Nickolas Henrique Bezerra com o CEO Adalberto.
