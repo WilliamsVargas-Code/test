@@ -51,6 +51,7 @@ Este trabalho delimita-se à modelagem conceitual do banco de dados, não contem
   * *Entrevista de Campo:* Realizada presencialmente em 01/09/2026 pelo aluno Nickolas Henrique Bezerra com o CEO Adalberto.
 
  Visita da academia para levantamento de requisitos:
+ 
   <a href="./visita.jpeg">
   <img src="visita.jpeg" alt="Visita á academia" width="300">
 </a>
