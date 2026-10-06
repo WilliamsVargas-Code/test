@@ -136,6 +136,7 @@ Abaixo está o dicionário de dados completo, com todas as entidades e atributos
 \---
 
 ## 7\. Diagrama Entidade-Relacionamento (DER)
+![Alt text](der_projeto.svg)
 
 
 
