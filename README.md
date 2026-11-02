@@ -158,12 +158,7 @@ Como o grupo é iniciante na disciplina, optamos por uma abordagem direta e foca
 
 
 
-<a href="https://github.com/WilliamsVargas-Code/test/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=WilliamsVargas-Code/test" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=WilliamsVargas-Code&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=WilliamsVargas-Code&show_icons=true&include_all_commits=true&theme=dark_github)
 
 
 
