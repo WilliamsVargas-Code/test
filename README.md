@@ -158,11 +158,11 @@ Como o grupo é iniciante na disciplina, optamos por uma abordagem direta e foca
 
 
 
-### 👥 Contribuidores
-
-<a href="https://github.com">
-  <img src="https://contrib.rocks" alt="Membros do Grupo" />
+<a href="https://github.com/WilliamsVargas-Code/test/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=WilliamsVargas-Code/test" />
 </a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
 
 
