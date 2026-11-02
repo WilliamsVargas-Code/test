@@ -158,7 +158,7 @@ Como o grupo é iniciante na disciplina, optamos por uma abordagem direta e foca
 
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=WilliamsVargas-Code&=theme=dark_github)](https://github-stats-extended.vercel.app/api?username=WilliamsVargas-Code&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=WilliamsVargas-Code&show_icons=true&repo=WilliamsVargas-Code/test&show=prs_authored,issues_authored&include_all_commits=true&hide=stars&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=WilliamsVargas-Code&show_icons=true&theme=dark_github)
 
 
 
